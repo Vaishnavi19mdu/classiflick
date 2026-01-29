@@ -1,0 +1,8 @@
+
+{
+  "name": "Classiflick Landing Page",
+  "description": "A premium, dark-themed landing page for Classiflick, an AI voice verification product featuring glassmorphism, smooth animations, and a modern futuristic aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
